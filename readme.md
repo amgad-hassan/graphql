@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="puppy.jpg" alt="Pet House GraphQL API" width="250"/>
-</p>
+
 
 
 # GraphQL Example
